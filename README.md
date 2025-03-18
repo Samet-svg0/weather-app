@@ -1,9 +1,9 @@
 
-Weather App
+# Weather App
 
 Bu proje, kullanıcıların bir şehir adı girerek hava durumu bilgilerini görüntülemesini sağlayan basit bir hava durumu uygulamasıdır.
 
-Özellikler
+# Özellikler
 
 Şehir adına göre hava durumu bilgilerini getirir.
 
@@ -14,7 +14,7 @@ Karanlık ve aydınlık tema desteği (tema değiştirme butonu).
 Responsive (mobil ve masaüstü uyumlu) tasarım.
 
 
-Kullanım
+# Kullanım
 
 1. Uygulamayı açın.
 
@@ -29,7 +29,7 @@ Kullanım
 
 
 
-Teknolojiler
+# Teknolojiler
 
 Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
@@ -40,3 +40,23 @@ CSS / SCSS (Tasarım ve stillendirme)
 JavaScript (Vanilla JS) (Veri çekme ve dinamik içerik)
 
 OpenWeather API (Hava durumu verilerini almak için)
+
+
+# Ekran Goruntusu
+
+![bandicam2025-03-1817-36-54-512-ezgif com-crop](https://github.com/user-attachments/assets/cd836b48-6c35-4acc-ace9-76dd9cf94cdb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
